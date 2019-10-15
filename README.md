@@ -1,2 +1,2 @@
-# Naive-bayers-classifier-from-scraatch
+# Naive-bayers-classifier-from-scratch
 course assignment
